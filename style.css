@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: gray;
+    
+}
+
+h1:hover{
+    text-shadow: rgb(228, 16, 132) -3px 0, cyan 3px 0;
+}
